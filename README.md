@@ -36,6 +36,7 @@
 ### Step 4. ADD, REMOVE, TASK STATUS, TASK LIST Commands run and show outputs.
 
 #### After Run this "cargo run" command then you can see this.
+
 ```bash 
     # Task Menu
     Todo List Manager
@@ -46,9 +47,12 @@
     3. Toggle task status
     4. List tasks
     5. Exit
+    
+```
+#### Now You can choose any option: 
 
-    # Now You can choose any option 
-
+```bash
+    
     # Add Task: 
     Enter your choice (1-5): 1
     Enter task description: Buy Car 
@@ -67,6 +71,10 @@
     3. Toggle task status
     4. List tasks
     5. Exit
+
+```
+
+```bash
 
     # Remove Task:
     Enter your choice (1-5): 2
@@ -89,6 +97,10 @@
     4. List tasks
     5. Exit
 
+```
+
+```bash
+
     # Task Status Toggle:
     Enter your choice (1-5): 3
     Enter task ID to toggle: 2
@@ -110,6 +122,10 @@
     4. List tasks
     5. Exit
 
+```
+
+```bash
+
     # Task List:
     Enter your choice (1-5): 4
 
@@ -128,6 +144,9 @@
     3. Toggle task status
     4. List tasks
     5. Exit
+
+```
+```bash
 
     # Exit:
     Enter your choice (1-5): 5
